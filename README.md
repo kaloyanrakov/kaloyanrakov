@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!</h1>
-<h1 align="center">
-My name is Kaloyan Rakov and I am a Full-Stack Software Engineering & Machine Learning student at Fontys ICT in Eindhoven, the Netherlands 💻</h1>
+<h2 align="center">
+My name is Kaloyan Rakov and I am a Full-Stack Software Engineering & Machine Learning student at Fontys ICT in Eindhoven, the Netherlands 💻</h2>
 
 <h2 align="center"> My Expirience:</h2>
 <h2 align="center">Companies I have worked for:</h2>
